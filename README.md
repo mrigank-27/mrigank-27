@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Mrigank 👋
 
-<!--
-**mrigank-27/mrigank-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Exploring Agentic AI, LLMs, and Python
 
-Here are some ideas to get you started:
+I'm learning to build agentic AI systems through hands-on Python projects. Lately, I've been exploring LLM integrations, tool use, and retrieval—and turning those ideas into small, practical examples.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm learning
+
+- 🤖 Agentic AI and LLM applications
+- 🐍 Python development
+- 🔎 Retrieval and working with data
+- 🛠️ Building agents that can use tools
+
+## GitHub at a glance
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mrigank-27&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats for mrigank-27" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrigank-27&layout=compact&hide_border=true&theme=transparent" alt="Most used languages for mrigank-27" />
+</p>
+
+## Contribution activity
+
+![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrigank-27&theme=github-compact&hide_border=true)
+
+---
+
+💬 I'm always learning—feel free to connect and share what you're building.
